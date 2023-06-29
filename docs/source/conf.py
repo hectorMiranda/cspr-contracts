@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'The "Server-Sent Events Documentation Repository" '
+project = 'The CSPR contracts repo'
 copyright = '0xF0'
 author = 'Hector Miranda'
 
