@@ -8,17 +8,17 @@ Table of Contents
 
 
 Introduction to this repo
-==================================
+=========================
 
 Hash register case
-------------------------
+------------------
 
 text text 
 
 Receiving events from the server
-===============================
+================================
 
 text text 
 
 Creating an EventSource instance
-===============================
+================================
