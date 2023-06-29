@@ -13,7 +13,7 @@ Introduction to this repo
 Hash register case
 ------------------
 
-text text 
+text text 0.0.1 
 
 Receiving events from the server
 ================================
